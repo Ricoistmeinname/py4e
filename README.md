@@ -1,2 +1,2 @@
-# python_exercises
-Python Exercises
+# py4e
+Python Exercises created by Rico
