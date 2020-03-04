@@ -17,7 +17,7 @@ print(sum(int(num) for num in lst))
     # without list comprehension
 #tot = 0
 #for num in lst :
-#    tot = tot + float(num)
+#    tot = tot + int(num)
 #print(tot)
 
     #Method 2 - one line of code - list conprehension ultra
