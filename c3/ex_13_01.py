@@ -33,10 +33,6 @@ for count in counts:
 # Sum up all the value in the list
 print('Sum:', sum(lst))    
 
-# Convert all the string to integer with in the list and sum it up   
-#print(sum(int(num) for num in lst))
-
-
 
 
 # http://py4e-data.dr-chuck.net/comments_42.xml
