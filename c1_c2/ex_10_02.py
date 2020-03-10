@@ -3,7 +3,7 @@
 # 'From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008'
 # Once you have accumulated the counts for each hour, print out the counts, sorted by hour as shown below. 
 fname = input("Enter file:")
-if len(fname) < 1 : fname = "mbox-short.txt"
+if len(fname) < 1 : fname = "mbox.txt"
 fhand = open(fname)
 
 counts = dict()
